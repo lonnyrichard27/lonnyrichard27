@@ -2,7 +2,7 @@
 - 👀 I’m interested in client side rendering on the web (react) and mobile (reactnative)
 - 🌱 I’m currently learning data structures and algorithms
 - 💞️ I’m looking to collaborate on any frontend project
-- 📫 How to reach me looonyrichard77@gmail.com
+- 📫 How to reach me lonnyrichard77@gmail.com
 
 <!---
 lonnyrichard27/lonnyrichard27 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
