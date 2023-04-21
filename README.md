@@ -1,4 +1,4 @@
-- 👋 Hi, I’m  Sodeinde Oluwaloni Richard
+- 👋 Hi, I’m  David Oluwaloni Richard
 - 👀 I’m interested in client side rendering on the web (react) and mobile (reactnative)
 - 🌱 I’m currently learning data structures and algorithms
 - 💞️ I’m looking to collaborate on any frontend project
