@@ -1,7 +1,7 @@
 - 👋 Hi, I’m  David Oluwaloni Richard
-- 👀 I’m interested in client side rendering on the web (react) and mobile (reactnative)
+- 👀 I’m a MERN Stack Developer
 - 🌱 I’m currently learning data structures and algorithms
-- 💞️ I’m looking to collaborate on any frontend project
+- 💞️ I’m looking to collaborate on any contractual project
 - 📫 How to reach me lonnyrichard77@gmail.com
 
 <!---
