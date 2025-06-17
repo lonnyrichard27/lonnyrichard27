@@ -1,7 +1,7 @@
 - 👋 Hi, I’m  David Oluwaloni Richard
-- 👀 I’m a MERN Stack Developer
+- 👀 I’m a Senior Frontend Engineer
 - 🌱 I’m currently learning data structures and algorithms
-- 💞️ I’m looking to collaborate on any contractual project
+- 💞️ I’m looking to collaborate on any contractual project or fulltime 
 - 📫 How to reach me lonnyrichard77@gmail.com
 
 <!---
