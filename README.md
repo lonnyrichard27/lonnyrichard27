@@ -1,5 +1,5 @@
 - 👋 Hi, I’m  David Oluwaloni Richard
-- 👀 I’m a Senior Frontend Engineer
+- 👀 I’m a Senior Frontend Engineer (Web and Mobile)
 - 🌱 I’m currently learning data structures and algorithms
 - 💞️ I’m looking to collaborate on any contractual project or fulltime 
 - 📫 How to reach me lonnyrichard77@gmail.com
